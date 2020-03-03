@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="dica_imc">
+        O processo utilizado para determinar
+        o excesso de peso é o calculo do
+        Índice de Massa Corporal (IMC).
+    </string>
+</resources>
